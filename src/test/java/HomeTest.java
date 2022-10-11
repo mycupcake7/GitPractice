@@ -4,5 +4,5 @@ public class HomeTest
     String role = "Student";
     int id = 77;
     String email = "nikki@test.com";
-    String collaborator = "Nikki";
 }
+
